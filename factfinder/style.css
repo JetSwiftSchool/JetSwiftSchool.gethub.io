@@ -1,0 +1,34 @@
+
+
+.button{
+	background-color: cyan;
+	border: 6px solid lightgreen;
+	border-radius: 15px;
+	width: 150px;
+	height: 75px;
+	margin: 10px;
+	font-size: 24px;
+	font-family: Impact;
+}
+.button:hover{
+	background-color: Turquoise;
+	border-color: limegreen;
+}
+	
+img{
+	margin: 15px;
+	border: 6px solid lightgreen;
+	border-radius: 15px;
+	width: 500px;
+}	
+
+#factOutput{
+	font-size: 24px;
+	font-family: 'Trebuchet MS';
+	padding: 15px;
+	margin: 10px;
+	border: 6px solid lightgreen;
+	border-radius: 25px;
+	background-color: cyan;
+	height: 700px;
+}
